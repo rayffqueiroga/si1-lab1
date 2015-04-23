@@ -1,0 +1,40 @@
+html { 
+	background-color: #A9A9A9;
+}
+h1 {
+	font-family: "Arial Black", Gadget, sans-serif;
+	color: white;
+	text-shadow: 2px 2px white;
+}
+h2 {
+	color: white;
+}
+table {
+	background-color: #696969;
+	border: 2px solid white;
+	font-family: Impact, Charcoal, sans-serif;
+}
+td {
+	border: 2px solid white;
+	padding: 5px;
+}
+td > a {
+	color: white;
+	text-decoration: none;
+}
+td > a:hover {
+	color: #000000;
+}
+.secao {
+	background-color: #696969;
+	border: 3px ridge #000000;
+	color: white;
+	padding: 5px;
+}
+#sidebar {
+	margin-top: 100px;
+	float: left;
+}
+#content {
+	margin-left: 250px;
+}
