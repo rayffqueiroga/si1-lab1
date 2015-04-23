@@ -1,0 +1,74 @@
+
+.container {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.span4 {
+	width: 40%;
+	margin-left: 50px;
+}
+#convencido {
+	margin-top: 30px;
+	margin-left: 30%;
+}
+
+#campos {
+	position: relative;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+	background-color: white;
+}
+
+#radio {
+	display: inline-block;
+	margin-right: 30px;
+	margin-left: 10px;
+}
+
+.cadastrar {
+	background-color: rgb(245, 245, 245);
+}
+
+.novadisciplina form {
+	float: left;
+	width: 70%;
+}
+.novadisciplina  button{
+	float: right;
+	width: 30%;
+}
+
+#adddisciplina {
+	padding: 10px;
+}
+
+.enviar {
+	display: inline;
+}
+
+.enviar input {
+	position: relative;
+	width: 40%;
+}
+
+.enviar button {
+	position: relative;
+	width: 20%;
+}
+
+.disciplinas {
+	margin-top: 10px;
+}
+
+.disciplina {
+	border-bottom: 2px solid #efefef;
+	padding-left: 10px;
+}
+
+.disciplina input {
+	float: right;
+}
